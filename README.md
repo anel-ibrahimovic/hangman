@@ -6,7 +6,7 @@ A classic Hangman game implemented in Python with two versions:
 Desktop app built with Tkinter for a graphical interface.
 
 
-🖥️ Console Version (main.py)
+🖥️ CLI Version (main.py)
 
 Runs in the terminal with text input/output.
 
