@@ -1,12 +1,12 @@
 A classic Hangman game implemented in Python with two versions:
 
 
-🖥️ GUI Version (main.py) 
+🖥️ GUI Version (gui.py) 
 
 Desktop app built with Tkinter for a graphical interface.
 
 
-🖥️ Console Version (console-version.py)
+🖥️ Console Version (main.py)
 
 Runs in the terminal with text input/output.
 
